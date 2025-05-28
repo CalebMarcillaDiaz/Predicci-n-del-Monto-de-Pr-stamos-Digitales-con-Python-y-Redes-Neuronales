@@ -6,13 +6,13 @@ El objetivo de este proyecto es aplicar técnicas de regresión lineal y redes n
 Breve descripción del dataset
 El dataset utilizado, prestamos_digitales.csv, contiene información de clientes peruanos sobre transacciones digitales, características demográficas y montos de préstamos. Cada fila representa el resumen mensual de un cliente, e incluye variables como:
 
--mes: Periodo de análisis (año/mes).
--cliente: ID único del cliente.
--rngSueldo: Rango salarial del cliente (variable categórica).
--promSaldoBanco3Um: Promedio del saldo bancario en los últimos 3 meses.
--ventaPrestDig: Monto de préstamo digital otorgado (variable objetivo).
--Otras variables: edad, género, tipo de transacción digital, frecuencia, ubicación geográfica, etc.
--El archivo utiliza punto y coma (“;”) como separador.
+  -mes: Periodo de análisis (año/mes).
+  -cliente: ID único del cliente.
+  -rngSueldo: Rango salarial del cliente (variable categórica).
+  -promSaldoBanco3Um: Promedio del saldo bancario en los últimos 3 meses.
+  -ventaPrestDig: Monto de préstamo digital otorgado (variable objetivo).
+  -Otras variables: edad, género, tipo de transacción digital, frecuencia, ubicación geográfica, etc.
+  -El archivo utiliza punto y coma (“;”) como separador.
 
 Librerías utilizadas
 
